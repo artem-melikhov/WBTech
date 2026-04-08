@@ -1,0 +1,13 @@
+# Данные (большие parquet файлы)
+Data/
+
+# macOS
+.DS_Store
+
+# CatBoost служебные файлы
+catboost_info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
